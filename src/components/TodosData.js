@@ -6,7 +6,7 @@ const todosData = [
     },
     {
         id: 2,
-        text: "Grocery Shoppingo",
+        text: "Grocery Shopping",
         completed: false
     },
     {
@@ -21,7 +21,7 @@ const todosData = [
     },
     {
         id: 5,
-        text: "Catch up on Arrested Development lol continuous integration",
+        text: "Catch up on Arrested Development",
         completed: false
     },
 ]
